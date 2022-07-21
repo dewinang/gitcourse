@@ -1,1 +1,1 @@
-
+document.querySelector('.header').addEventListener('click', alert('CLICK'))
